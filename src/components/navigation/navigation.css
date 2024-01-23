@@ -1,0 +1,47 @@
+.header {
+    color: white;
+    /* background-color: #72898f; */
+    background-color: #3498db; 
+    /* background: linear-gradient(to right, #1abc9c, #3498db, #9b59b6); */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.search-icon {
+    font-size: 20px;
+}
+.search-icon:hover {
+    color: #c8fcea;
+}
+
+.logo a:hover{
+    color: #c8fcea;
+}
+
+.nav ul li{
+    display: inline;
+    margin: 20px;
+    list-style: none;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.nav ul li a:hover {
+    color: #c8fcea;
+}
+
+.logo a {
+    color: white;
+    text-decoration: none;
+}
+
+.profile-icon {
+    font-size: 30px;
+}
