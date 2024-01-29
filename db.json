@@ -1,0 +1,326 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://m.media-amazon.com/images/I/61dRoDRubtL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "April 10, 1925",
+      "genre": "Fiction",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+      "release_date": "July 11, 1960",
+      "genre": "Fiction",
+      "rating": 4.8,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "https://m.media-amazon.com/images/I/61NAx5pd6XL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "June 8, 1949",
+      "genre": "Dystopian",
+      "rating": 4.6,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 4,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://manhattanrarebooks.cdn.bibliopolis.com/pictures/2529.jpg?width=768&height=1000&fit=bounds&auto=webp&v=1647356617",
+      "release_date": "September 21, 1937",
+      "genre": "Fantasy",
+      "rating": 4.7,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://cdn.britannica.com/94/181394-050-2F76F7EE/Reproduction-cover-edition-The-Catcher-in-the.jpg",
+      "release_date": "July 16, 1951",
+      "genre": "Fiction",
+      "rating": 4.2,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 6,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDM0MjFlOGYtNTg2ZC00MmRkLTg5OTQtM2U5ZjUyYTgxZThiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "release_date": "January 28, 1813",
+      "genre": "Romance",
+      "rating": 4.9,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 7,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566425108l/33.jpg",
+      "release_date": "July 29, 1954",
+      "genre": "Fantasy",
+      "rating": 4.9,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 8,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "image": "https://m.media-amazon.com/images/I/81R91ODA9DL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "October 18, 1851",
+      "genre": "Adventure",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 9,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "image": "https://m.media-amazon.com/images/I/81MI6+TpYkL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "May 30, 1967",
+      "genre": "Magical Realism",
+      "rating": 4.3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 10,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "https://m.media-amazon.com/images/I/51bVNTqHFlL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "1988",
+      "genre": "Fiction",
+      "rating": 4.2,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 11,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "image": "https://m.media-amazon.com/images/I/81oHM-dzefL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "January 1869",
+      "genre": "Historical Fiction",
+      "rating": 4.7,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 12,
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "image": "https://m.media-amazon.com/images/I/71OZJsgZzQL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "November 1880",
+      "genre": "Philosophical Fiction",
+      "rating": 4.6,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 13,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "image": "https://m.media-amazon.com/images/I/81TVqiv-ctL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "January 1818",
+      "genre": "Gothic Horror",
+      "rating": 4.4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 14,
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "image": "https://m.media-amazon.com/images/I/51XkOP7amUS._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "May 1897",
+      "genre": "Gothic Horror",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 15,
+      "title": "The Odyssey",
+      "author": "Homer",
+      "image": "https://m.media-amazon.com/images/I/A15XQ+h74LL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "8th century BCE",
+      "genre": "Epic Poetry",
+      "rating": 4.8,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 16,
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "image": "https://m.media-amazon.com/images/I/91F9WNEThJL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "March 1877",
+      "genre": "Realist Fiction",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 17,
+      "title": "The Jungle Book",
+      "author": "Rudyard Kipling",
+      "image": "https://m.media-amazon.com/images/I/91jGTQm3juL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "1894",
+      "genre": "Adventure",
+      "rating": 4.2,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 18,
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "image": "https://cdn.kobo.com/book-images/a6bdd3f5-ba60-4ad3-8f6b-5f1427021961/353/569/90/False/les-miserables-305.jpg",
+      "release_date": "January 1862",
+      "genre": "Historical Novel",
+      "rating": 4.6,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 19,
+      "title": "The War of the Worlds",
+      "author": "H.G. Wells",
+      "image": "https://m.media-amazon.com/images/I/51ko-yy43tL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "1898",
+      "genre": "Science Fiction",
+      "rating": 4.3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 20,
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Adventures_of_sherlock_holmes.jpg",
+      "release_date": "1892",
+      "genre": "Mystery",
+      "rating": 4.8,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 21,
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRjZDgtZWI0MS00ZTIzLTg4MWYtZjU5MDEyMDU0ODBjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "release_date": "1844",
+      "genre": "Adventure",
+      "rating": 4.7,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 22,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzI1NGYyYzYtOTNiNi00YjQ3LWEwYzktMzA1MjMxYmQwMTk0XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_FMjpg_UX1000_.jpg",
+      "release_date": "1847",
+      "genre": "Gothic Fiction",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 23,
+      "title": "The Iliad",
+      "author": "Homer",
+      "image": "https://m.media-amazon.com/images/I/A1ZctABOB8L._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "8th century BCE",
+      "genre": "Epic Poetry",
+      "rating": 4.8,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 24,
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "image": "https://m.media-amazon.com/images/I/71MizulW5AL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "5th century BCE",
+      "genre": "Military Strategy",
+      "rating": 4.9,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 25,
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "image": "https://m.media-amazon.com/images/I/81EIw-xbHVL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "1902",
+      "genre": "Mystery",
+      "rating": 4.6,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 26,
+      "title": "The Canterbury Tales",
+      "author": "Geoffrey Chaucer",
+      "image": "https://cdn.britannica.com/33/129333-050-D3E1E1B8/Geoffrey-Chaucer-manuscript-Ellesmere-The-Canterbury-Tales.jpg",
+      "release_date": "1400",
+      "genre": "Poetry",
+      "rating": 4.3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 27,
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "image": "https://m.media-amazon.com/images/I/81Kwl3KEYzL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "1859",
+      "genre": "Historical Novel",
+      "rating": 4.7,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 28,
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5ODc1NjU5N15BMl5BanBnXkFtZTcwMTUyNDg3Mg@@._V1_.jpg",
+      "release_date": "1890",
+      "genre": "Gothic Fiction",
+      "rating": 4.7,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 29,
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "image": "https://m.media-amazon.com/images/I/61tsVeUe6kL._SL500_.jpg",
+      "release_date": "1605",
+      "genre": "Satire",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    },
+    {
+      "id": 30,
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "image": "https://m.media-amazon.com/images/I/61UegkaetIL._AC_UF1000,1000_QL80_.jpg",
+      "release_date": "1532",
+      "genre": "Political Philosophy",
+      "rating": 4.4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+    }
+  ],
+  "users": [
+    {
+      "email": "krasi@abv.bg",
+      "username": "krasi96",
+      "image": "https://4.bp.blogspot.com/-uhbHaCPo4Uw/T2T6vKE9XzI/AAAAAAAAHuU/SYmb6BMsgjg/s1600/427049_228666173898071_147839825314040_431213_2048117155_n.jpg",
+      "password": "123456",
+      "reppass": "123456",
+      "favoriteBook": [
+        {
+          "id": 2,
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+          "release_date": "July 11, 1960",
+          "genre": "Fiction",
+          "rating": 4.8,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies rhoncus lacinia. Integer luctus, nisi sed ultricies sodales, mauris elit rhoncus tortor, et tincidunt est nibh id nisi. Nunc in euismod erat. Etiam ultrices consequat nisl, eget finibus eros pellentesque ut."
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
