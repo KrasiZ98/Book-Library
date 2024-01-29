@@ -83,7 +83,7 @@ const AuthContextProvider = (props) => {
         setUsers(users.map(x => x.id === userId ? result : x));
         navigate('/profile');
         setState(user);
-        console.log(userId, user)
+       
     }
 
     async function removeUser(userId) {

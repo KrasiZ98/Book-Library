@@ -12,20 +12,18 @@ import { FaHome } from "react-icons/fa";
 
 export const Navigation = () => {
   const { user, userLogout } = useContext(AuthContext);
-  
   const [sidebar, setSidebar] = useState(false);
-  const naviagte = useNavigate();
+  const navigate = useNavigate();
 
-  function onLogout() {
+  function onLogout(e) {
+    e.preventDefault();
     userLogout();
-    naviagte('/');
+    navigate('/');
   }
 
   return (
     <>
-
       <header className="header">
-
         <div className="search">
           <BsSearch
             className="search-icon"
@@ -35,23 +33,8 @@ export const Navigation = () => {
 
         <nav className="nav">
           <ul>
-            {user.email == undefined ?
+            {user.email ? (
               <>
-                <li>
-                  <Link to="/">Home</Link>
-                </li>
-                <li>
-                  <Link to="/login">Login</Link>
-                </li>
-
-                <li>
-                  <Link to="/register">Register</Link>
-
-                </li>
-              </>
-              :
-              <>
-
                 <li>
                   <Link to="/">
                     <FaHome className="profile-icon" />
@@ -60,31 +43,37 @@ export const Navigation = () => {
                 <li>
                   <Link to="/favorite">
                     <MdFavoriteBorder className="profile-icon" />
-                    {user.favoriteBook.length}
+                    {user?.favoriteBook?.length}
                   </Link>
                 </li>
-
                 <li>
                   <Link to="/profile">
                     <PiUserGearLight className="profile-icon" />
                   </Link>
                 </li>
-
                 <li>
-                  <Link onClick={() => onLogout()}>
+                  <Link to="/" onClick={(e) => onLogout(e)}>
                     <BiLogOutCircle className="profile-icon" />
                   </Link>
                 </li>
               </>
-            }
-
-
-
+            ) : (
+              <>
+                <li>
+                  <Link to="/">Home</Link>
+                </li>
+                <li>
+                  <Link to="/login">Login</Link>
+                </li>
+                <li>
+                  <Link to="/register">Register</Link>
+                </li>
+              </>
+            )}
           </ul>
         </nav>
       </header>
-
       {sidebar && <SideBar />}
     </>
-  )
-}
+  );
+};

@@ -30,7 +30,7 @@ export default function useFormRegister() {
 
         setTimeout(() => {
             setFormError({});
-        }, 7000)
+        }, 4000)
 
         if (Object.values(error).length === 0) {
             userRegister(formValue);

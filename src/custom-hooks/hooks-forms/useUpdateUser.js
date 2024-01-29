@@ -6,7 +6,7 @@ export default function useUpdateUser() {
 
     const { users, user, updateUser } = useContext(AuthContext);
 
-    console.log(user.id)
+ 
 
     const [formValue, setFormValue] = useState({
         email: user.email,

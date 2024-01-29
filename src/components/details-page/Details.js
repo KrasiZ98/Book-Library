@@ -12,7 +12,7 @@ export const Details = () => {
     const { user } = useContext(AuthContext);
     const { book, setBook, loading, fetchError } = useGetBookId(id, []);
 
-    console.log(user.favoriteBook)
+
 
     if (loading) {
         return <h1>Loading...</h1>
@@ -48,7 +48,7 @@ export const Details = () => {
 
 
 
-                    {user.email && user.favoriteBook.find(x => x.id === book.id) == undefined &&
+                    {user.email && user.favoriteBook?.find(x => x.id === book.id) == undefined &&
                         <div className="action-btn">
                             <button
                                 onClick={() => addFavoriteBooks(user.id, book)}

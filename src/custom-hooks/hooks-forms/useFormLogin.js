@@ -31,9 +31,9 @@ export default function useFormLogin() {
 
         setTimeout(() => {
             setFormError({});
-        }, 7000);
+        }, 4000);
 
-        console.log(formValue);
+    
     }
 
     return { formValue, formError, onSubmit, onChange };

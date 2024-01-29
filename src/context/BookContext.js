@@ -26,7 +26,6 @@ const BookContextProvider = (props) => {
 
     }
 
-    console.log(filterBooks);
 
     return (
         <BookContext.Provider value={{
